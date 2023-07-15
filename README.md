@@ -171,18 +171,3 @@
     height="40"
   />
 </p>
-<h1 id="-github-stats-">📊 GitHub Stats:</h1>
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=laxmanPal&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false"
-    alt=""
-  /><br />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanPal&amp;theme=dark&amp;hide_border=true"
-    alt=""
-  /><br />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanPal&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact"
-    alt=""
-  />
-</p>
