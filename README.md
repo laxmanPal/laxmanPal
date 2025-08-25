@@ -6,14 +6,12 @@ MERN stack — from idea to deployment. I enjoy
 turning concepts into functional, user-friendly
 experiences that are both visually engaging and
 technically sound.  
----
 
 ## 🛠️ Tech Stack
 - *Frontend:* HTML, CSS, JavaScript, React.js, Tailwind CSS  
 - *Backend:* Node.js, Express.js, REST APIs  
 - *Database:* MongoDB
-- *Tools:* Git, GitHub, VS Code  
----
+- *Tools:* Git, GitHub, VS Code
 
 ## 📫 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/laxmanpal/](https://www.linkedin.com/in/laxmanpal/)  
