@@ -6,7 +6,6 @@ MERN stack — from idea to deployment. I enjoy
 turning concepts into functional, user-friendly
 experiences that are both visually engaging and
 technically sound.  
-
 ---
 
 ## 🛠️ Tech Stack
@@ -14,7 +13,6 @@ technically sound.
 - *Backend:* Node.js, Express.js, REST APIs  
 - *Database:* MongoDB
 - *Tools:* Git, GitHub, VS Code  
-
 ---
 
 ## 📫 Connect With Me
